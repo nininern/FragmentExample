@@ -1,0 +1,4 @@
+#Tue Feb 09 22:54:21 ICT 2021
+base.0=D\:\\college\\Sem 4\\P.PAB 2\\android-advanced-starter-apps-master\\FragmentExample_start\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
